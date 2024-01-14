@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "395917096520",
+    "project_id": "laundryeah",
+    "storage_bucket": "laundryeah.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:395917096520:android:1555e13a90aedf561dca7d",
+        "android_client_info": {
+          "package_name": "com.example.flutter_laundryapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGk-K257LDv7F8hzxWuXAG6WCzBHcpadc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
